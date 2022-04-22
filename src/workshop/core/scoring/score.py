@@ -2,7 +2,6 @@ import json
 import numpy as np
 import pandas as pd
 import os
-## comment
 from azureml.core.model import Model
 import mlflow
 # Called when the service is loaded
